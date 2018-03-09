@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background: cadetblue;
+}
+
+#main{
+    min-width: 600px;
+    margin: auto;
+    min-height: 500px;
+    padding: 20px;
+    background: white;
+}
+
+img{
+    max-width: 100%;
+}
+
+@media only screen and (max-width:600px){
+    #main{}
+}
