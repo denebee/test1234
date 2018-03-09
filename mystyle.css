@@ -1,0 +1,47 @@
+/*mystyle.css*/
+
+body{
+    background-color: aqua;
+}
+
+/*
+    #id
+        .class
+*/ 
+
+
+#title1{
+    color: aliceblue;
+    border: 1px solid;
+}
+
+.box{
+    border: 1px solid #000000;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.mybgyellow{
+    background: yellow;
+}
+
+.mybgbrown{
+    background: brown;
+}
+
+.mybgorange{
+    background: orange;
+}
+
+.mybgred{
+    background: red;
+}
+
+.mybggreen{
+    background: green;
+}
+
+.mybgblue{
+    background: blue;
+}
