@@ -13,6 +13,7 @@ body{
 #title1{
     color: aliceblue;
     border: 1px solid;
+    font-family: 'Rammetto One', cursive;
 }
 
 .box{
@@ -20,6 +21,10 @@ body{
     width: 25px;
     height: 25px;
     display: inline-block;
+}
+
+.box:hover{
+    background-color: #000000;
 }
 
 .mybgyellow{
@@ -44,4 +49,20 @@ body{
 
 .mybgblue{
     background: blue;
+}
+
+p{
+    font-family: 'Rammetto One', cursive;
+}
+
+a{
+    border: 1px solid white;
+    width: 150px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+
+a:hover{
+    background-color: chartreuse;
 }
